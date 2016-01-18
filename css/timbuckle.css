@@ -378,7 +378,7 @@
 	.tb-1400-1-12{width:8.33%;}
 
 	/* centered percentage width columns */
-    .tb-cen-10{width:10%;}
+	.tb-cen-10{width:10%;}
 	.tb-cen-20{width:20%;}
 	.tb-cen-30{width:30%;}
 	.tb-cen-40{width:40%;}
@@ -388,46 +388,46 @@
 	.tb-cen-80{width:80%;}
 	.tb-cen-90{width:90%;}
 	.tb-cen-100{width:100%;}
-    .tb-cen-500-10{width:10%;}
-    .tb-cen-500-20{width:20%;}
-    .tb-cen-500-30{width:30%;}
-    .tb-cen-500-40{width:40%;}
-    .tb-cen-500-50{width:50%;}
-    .tb-cen-500-60{width:60%;}
-    .tb-cen-500-70{width:70%;}
-    .tb-cen-500-80{width:80%;}
-    .tb-cen-500-90{width:90%;}
-    .tb-cen-500-100{width:100%;}
-    .tb-cen-768-10{width:10%;}
-    .tb-cen-768-20{width:20%;}
-    .tb-cen-768-30{width:30%;}
-    .tb-cen-768-40{width:40%;}
-    .tb-cen-768-50{width:50%;}
-    .tb-cen-768-60{width:60%;}
-    .tb-cen-768-70{width:70%;}
-    .tb-cen-768-80{width:80%;}
-    .tb-cen-768-90{width:90%;}
-    .tb-cen-768-100{width:100%;}
-    .tb-cen-992-10{width:10%;}
-    .tb-cen-992-20{width:20%;}
-    .tb-cen-992-30{width:30%;}
-    .tb-cen-992-40{width:40%;}
-    .tb-cen-992-50{width:50%;}
-    .tb-cen-992-60{width:60%;}
-    .tb-cen-992-70{width:70%;}
-    .tb-cen-992-80{width:80%;}
-    .tb-cen-992-90{width:90%;}
-    .tb-cen-992-100{width:100%;}
+	.tb-cen-500-10{width:10%;}
+	.tb-cen-500-20{width:20%;}
+	.tb-cen-500-30{width:30%;}
+	.tb-cen-500-40{width:40%;}
+	.tb-cen-500-50{width:50%;}
+	.tb-cen-500-60{width:60%;}
+	.tb-cen-500-70{width:70%;}
+	.tb-cen-500-80{width:80%;}
+	.tb-cen-500-90{width:90%;}
+	.tb-cen-500-100{width:100%;}
+	.tb-cen-768-10{width:10%;}
+	.tb-cen-768-20{width:20%;}
+	.tb-cen-768-30{width:30%;}
+	.tb-cen-768-40{width:40%;}
+	.tb-cen-768-50{width:50%;}
+	.tb-cen-768-60{width:60%;}
+	.tb-cen-768-70{width:70%;}
+	.tb-cen-768-80{width:80%;}
+	.tb-cen-768-90{width:90%;}
+	.tb-cen-768-100{width:100%;}
+	.tb-cen-992-10{width:10%;}
+	.tb-cen-992-20{width:20%;}
+	.tb-cen-992-30{width:30%;}
+	.tb-cen-992-40{width:40%;}
+	.tb-cen-992-50{width:50%;}
+	.tb-cen-992-60{width:60%;}
+	.tb-cen-992-70{width:70%;}
+	.tb-cen-992-80{width:80%;}
+	.tb-cen-992-90{width:90%;}
+	.tb-cen-992-100{width:100%;}
 	.tb-cen-1200-10{width:10%;}
-    .tb-cen-1200-20{width:20%;}
-    .tb-cen-1200-30{width:30%;}
-    .tb-cen-1200-40{width:40%;}
-    .tb-cen-1200-50{width:50%;}
-    .tb-cen-1200-60{width:60%;}
-    .tb-cen-1200-70{width:70%;}
-    .tb-cen-1200-80{width:80%;}
-    .tb-cen-1200-90{width:90%;}
-    .tb-cen-1200-100{width:100%;}
+	.tb-cen-1200-20{width:20%;}
+	.tb-cen-1200-30{width:30%;}
+	.tb-cen-1200-40{width:40%;}
+	.tb-cen-1200-50{width:50%;}
+	.tb-cen-1200-60{width:60%;}
+	.tb-cen-1200-70{width:70%;}
+	.tb-cen-1200-80{width:80%;}
+	.tb-cen-1200-90{width:90%;}
+	.tb-cen-1200-100{width:100%;}
 	.tb-cen-1400-10{width:10%;}
 	.tb-cen-1400-20{width:20%;}
 	.tb-cen-1400-30{width:30%;}
@@ -467,15 +467,15 @@
 	.tb-1400-1-11,
 	.tb-1400-1-12,
 	.tb-cen-1400-10,
-    .tb-cen-1400-20,
-    .tb-cen-1400-30,
-    .tb-cen-1400-40,
-    .tb-cen-1400-50,
-    .tb-cen-1400-60,
-    .tb-cen-1400-70,
-    .tb-cen-1400-80,
-    .tb-cen-1400-90,
-    .tb-cen-1400-100
+	.tb-cen-1400-20,
+	.tb-cen-1400-30,
+	.tb-cen-1400-40,
+	.tb-cen-1400-50,
+	.tb-cen-1400-60,
+	.tb-cen-1400-70,
+	.tb-cen-1400-80,
+	.tb-cen-1400-90,
+	.tb-cen-1400-100
 	{width:100%;min-height:0;}
 
 	/* grid 12 columns */
@@ -603,7 +603,7 @@
 	.tb-1200-1-12{width:8.33%;}
 
 	/* centered percentage width columns */
-    .tb-cen-10{width:10%;}
+	.tb-cen-10{width:10%;}
 	.tb-cen-20{width:20%;}
 	.tb-cen-30{width:30%;}
 	.tb-cen-40{width:40%;}
@@ -613,46 +613,46 @@
 	.tb-cen-80{width:80%;}
 	.tb-cen-90{width:90%;}
 	.tb-cen-100{width:100%;}
-    .tb-cen-500-10{width:10%;}
-    .tb-cen-500-20{width:20%;}
-    .tb-cen-500-30{width:30%;}
-    .tb-cen-500-40{width:40%;}
-    .tb-cen-500-50{width:50%;}
-    .tb-cen-500-60{width:60%;}
-    .tb-cen-500-70{width:70%;}
-    .tb-cen-500-80{width:80%;}
-    .tb-cen-500-90{width:90%;}
-    .tb-cen-500-100{width:100%;}
-    .tb-cen-768-10{width:10%;}
-    .tb-cen-768-20{width:20%;}
-    .tb-cen-768-30{width:30%;}
-    .tb-cen-768-40{width:40%;}
-    .tb-cen-768-50{width:50%;}
-    .tb-cen-768-60{width:60%;}
-    .tb-cen-768-70{width:70%;}
-    .tb-cen-768-80{width:80%;}
-    .tb-cen-768-90{width:90%;}
-    .tb-cen-768-100{width:100%;}
-    .tb-cen-992-10{width:10%;}
-    .tb-cen-992-20{width:20%;}
-    .tb-cen-992-30{width:30%;}
-    .tb-cen-992-40{width:40%;}
-    .tb-cen-992-50{width:50%;}
-    .tb-cen-992-60{width:60%;}
-    .tb-cen-992-70{width:70%;}
-    .tb-cen-992-80{width:80%;}
-    .tb-cen-992-90{width:90%;}
-    .tb-cen-992-100{width:100%;}
+	.tb-cen-500-10{width:10%;}
+	.tb-cen-500-20{width:20%;}
+	.tb-cen-500-30{width:30%;}
+	.tb-cen-500-40{width:40%;}
+	.tb-cen-500-50{width:50%;}
+	.tb-cen-500-60{width:60%;}
+	.tb-cen-500-70{width:70%;}
+	.tb-cen-500-80{width:80%;}
+	.tb-cen-500-90{width:90%;}
+	.tb-cen-500-100{width:100%;}
+	.tb-cen-768-10{width:10%;}
+	.tb-cen-768-20{width:20%;}
+	.tb-cen-768-30{width:30%;}
+	.tb-cen-768-40{width:40%;}
+	.tb-cen-768-50{width:50%;}
+	.tb-cen-768-60{width:60%;}
+	.tb-cen-768-70{width:70%;}
+	.tb-cen-768-80{width:80%;}
+	.tb-cen-768-90{width:90%;}
+	.tb-cen-768-100{width:100%;}
+	.tb-cen-992-10{width:10%;}
+	.tb-cen-992-20{width:20%;}
+	.tb-cen-992-30{width:30%;}
+	.tb-cen-992-40{width:40%;}
+	.tb-cen-992-50{width:50%;}
+	.tb-cen-992-60{width:60%;}
+	.tb-cen-992-70{width:70%;}
+	.tb-cen-992-80{width:80%;}
+	.tb-cen-992-90{width:90%;}
+	.tb-cen-992-100{width:100%;}
 	.tb-cen-1200-10{width:10%;}
-    .tb-cen-1200-20{width:20%;}
-    .tb-cen-1200-30{width:30%;}
-    .tb-cen-1200-40{width:40%;}
-    .tb-cen-1200-50{width:50%;}
-    .tb-cen-1200-60{width:60%;}
-    .tb-cen-1200-70{width:70%;}
-    .tb-cen-1200-80{width:80%;}
-    .tb-cen-1200-90{width:90%;}
-    .tb-cen-1200-100{width:100%;}
+	.tb-cen-1200-20{width:20%;}
+	.tb-cen-1200-30{width:30%;}
+	.tb-cen-1200-40{width:40%;}
+	.tb-cen-1200-50{width:50%;}
+	.tb-cen-1200-60{width:60%;}
+	.tb-cen-1200-70{width:70%;}
+	.tb-cen-1200-80{width:80%;}
+	.tb-cen-1200-90{width:90%;}
+	.tb-cen-1200-100{width:100%;}
 }
 
 
@@ -708,25 +708,25 @@
 	.tb-1200-1-11,
 	.tb-1200-1-12,
 	.tb-cen-1400-10,
-    .tb-cen-1400-20,
-    .tb-cen-1400-30,
-    .tb-cen-1400-40,
-    .tb-cen-1400-50,
-    .tb-cen-1400-60,
-    .tb-cen-1400-70,
-    .tb-cen-1400-80,
-    .tb-cen-1400-90,
-    .tb-cen-1400-100,
+	.tb-cen-1400-20,
+	.tb-cen-1400-30,
+	.tb-cen-1400-40,
+	.tb-cen-1400-50,
+	.tb-cen-1400-60,
+	.tb-cen-1400-70,
+	.tb-cen-1400-80,
+	.tb-cen-1400-90,
+	.tb-cen-1400-100,
 	.tb-cen-1200-10,
-    .tb-cen-1200-20,
-    .tb-cen-1200-30,
-    .tb-cen-1200-40,
-    .tb-cen-1200-50,
-    .tb-cen-1200-60,
-    .tb-cen-1200-70,
-    .tb-cen-1200-80,
-    .tb-cen-1200-90,
-    .tb-cen-1200-100
+	.tb-cen-1200-20,
+	.tb-cen-1200-30,
+	.tb-cen-1200-40,
+	.tb-cen-1200-50,
+	.tb-cen-1200-60,
+	.tb-cen-1200-70,
+	.tb-cen-1200-80,
+	.tb-cen-1200-90,
+	.tb-cen-1200-100
 	{width:100%;min-height:0;}
 
 	/* grid 12 columns */
@@ -948,25 +948,25 @@
 	.tb-992-1-2,
 	.tb-992-1-1,
 	.tb-cen-1400-10,
-    .tb-cen-1400-20,
-    .tb-cen-1400-30,
-    .tb-cen-1400-40,
-    .tb-cen-1400-50,
-    .tb-cen-1400-60,
-    .tb-cen-1400-70,
-    .tb-cen-1400-80,
-    .tb-cen-1400-90,
-    .tb-cen-1400-100,
+	.tb-cen-1400-20,
+	.tb-cen-1400-30,
+	.tb-cen-1400-40,
+	.tb-cen-1400-50,
+	.tb-cen-1400-60,
+	.tb-cen-1400-70,
+	.tb-cen-1400-80,
+	.tb-cen-1400-90,
+	.tb-cen-1400-100,
 	.tb-cen-1200-10,
-    .tb-cen-1200-20,
-    .tb-cen-1200-30,
-    .tb-cen-1200-40,
-    .tb-cen-1200-50,
-    .tb-cen-1200-60,
-    .tb-cen-1200-70,
-    .tb-cen-1200-80,
-    .tb-cen-1200-90,
-    .tb-cen-1200-100,
+	.tb-cen-1200-20,
+	.tb-cen-1200-30,
+	.tb-cen-1200-40,
+	.tb-cen-1200-50,
+	.tb-cen-1200-60,
+	.tb-cen-1200-70,
+	.tb-cen-1200-80,
+	.tb-cen-1200-90,
+	.tb-cen-1200-100,
 	.tb-cen-992-10,
 	.tb-cen-992-20,
 	.tb-cen-992-30,
@@ -1188,26 +1188,26 @@
 	.tb-768-1-11,
 	.tb-768-1-12,
 	.tb-cen-1400-10,
-    .tb-cen-1400-20,
-    .tb-cen-1400-30,
-    .tb-cen-1400-40,
-    .tb-cen-1400-50,
-    .tb-cen-1400-60,
-    .tb-cen-1400-70,
-    .tb-cen-1400-80,
-    .tb-cen-1400-90,
-    .tb-cen-1400-100,
+	.tb-cen-1400-20,
+	.tb-cen-1400-30,
+	.tb-cen-1400-40,
+	.tb-cen-1400-50,
+	.tb-cen-1400-60,
+	.tb-cen-1400-70,
+	.tb-cen-1400-80,
+	.tb-cen-1400-90,
+	.tb-cen-1400-100,
 	.tb-cen-1200-10,
-    .tb-cen-1200-20,
-    .tb-cen-1200-30,
-    .tb-cen-1200-40,
-    .tb-cen-1200-50,
-    .tb-cen-1200-60,
-    .tb-cen-1200-70,
-    .tb-cen-1200-80,
-    .tb-cen-1200-90,
-    .tb-cen-1200-100,
-    .tb-cen-992-10,
+	.tb-cen-1200-20,
+	.tb-cen-1200-30,
+	.tb-cen-1200-40,
+	.tb-cen-1200-50,
+	.tb-cen-1200-60,
+	.tb-cen-1200-70,
+	.tb-cen-1200-80,
+	.tb-cen-1200-90,
+	.tb-cen-1200-100,
+	.tb-cen-992-10,
 	.tb-cen-992-20,
 	.tb-cen-992-30,
 	.tb-cen-992-40,
@@ -1428,26 +1428,26 @@
 	.tb-500-1-11,
 	.tb-500-1-12,
 	.tb-cen-1400-10,
-    .tb-cen-1400-20,
-    .tb-cen-1400-30,
-    .tb-cen-1400-40,
-    .tb-cen-1400-50,
-    .tb-cen-1400-60,
-    .tb-cen-1400-70,
-    .tb-cen-1400-80,
-    .tb-cen-1400-90,
-    .tb-cen-1400-100,
+	.tb-cen-1400-20,
+	.tb-cen-1400-30,
+	.tb-cen-1400-40,
+	.tb-cen-1400-50,
+	.tb-cen-1400-60,
+	.tb-cen-1400-70,
+	.tb-cen-1400-80,
+	.tb-cen-1400-90,
+	.tb-cen-1400-100,
 	.tb-cen-1200-10,
-    .tb-cen-1200-20,
-    .tb-cen-1200-30,
-    .tb-cen-1200-40,
-    .tb-cen-1200-50,
-    .tb-cen-1200-60,
-    .tb-cen-1200-70,
-    .tb-cen-1200-80,
-    .tb-cen-1200-90,
-    .tb-cen-1200-100,
-    .tb-cen-992-10,
+	.tb-cen-1200-20,
+	.tb-cen-1200-30,
+	.tb-cen-1200-40,
+	.tb-cen-1200-50,
+	.tb-cen-1200-60,
+	.tb-cen-1200-70,
+	.tb-cen-1200-80,
+	.tb-cen-1200-90,
+	.tb-cen-1200-100,
+	.tb-cen-992-10,
 	.tb-cen-992-20,
 	.tb-cen-992-30,
 	.tb-cen-992-40,
